@@ -32,6 +32,8 @@
 ## Section 4: Asynchronous Node.js (Weather App)
 * Section Intro
 * Async Basics
+* Call Stack & Event Loop
+* Callback Functions & APIs
 
 # Node Modules
 * npm install lodash --save
