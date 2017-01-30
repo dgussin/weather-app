@@ -34,8 +34,10 @@
 * Async Basics
 * Call Stack & Event Loop
 * Callback Functions & APIs
+* Pretty Printing Objects
 
 # Node Modules
 * npm install lodash --save
 * npm install nodemon -g
 * npm install yargs@4.7.1
+* npm install request@2.73.0
