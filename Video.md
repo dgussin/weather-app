@@ -35,6 +35,8 @@
 * Call Stack & Event Loop
 * Callback Functions & APIs
 * Pretty Printing Objects
+* What's Makes up and HTTP request
+* Encoding User Input
 
 # Node Modules
 * npm install lodash --save
