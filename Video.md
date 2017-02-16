@@ -39,6 +39,7 @@
 * Encoding User Input
 * Callback Errors
 * Abstracting Callbacks
+* Wiring Up Weather Search
 
 # Node Modules
 * npm install lodash --save
