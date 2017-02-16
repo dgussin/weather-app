@@ -37,6 +37,8 @@
 * Pretty Printing Objects
 * What's Makes up and HTTP request
 * Encoding User Input
+* Callback Errors
+* Abstracting Callbacks
 
 # Node Modules
 * npm install lodash --save
