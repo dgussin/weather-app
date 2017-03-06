@@ -40,6 +40,7 @@
 * Callback Errors
 * Abstracting Callbacks
 * Wiring Up Weather Search
+* Chaining Callbacks Together
 
 # Node Modules
 * npm install lodash --save
