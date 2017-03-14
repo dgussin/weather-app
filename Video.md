@@ -41,9 +41,14 @@
 * Abstracting Callbacks
 * Wiring Up Weather Search
 * Chaining Callbacks Together
+* Intro to ES6 Promises
+* Advanced Promises
+* Weather App With Promises
+* Extra Features
 
 # Node Modules
 * npm install lodash --save
 * npm install nodemon -g
 * npm install yargs@4.7.1
 * npm install request@2.73.0
+* npm install axios@0.13.1 --save
